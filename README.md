@@ -38,3 +38,11 @@ fuel-price-optimizer/
     run_pipeline.py            # run ETL + training
     run_recommendation_demo.py # demo: recommend price for today_example.json
   tests/                       # basic automated tests
+
+
+#Outputs:-
+
+<img width="924" height="447" alt="image" src="https://github.com/user-attachments/assets/402fd990-1abf-4217-aa91-68a72c0dc8f3" />
+
+<img width="1068" height="543" alt="image" src="https://github.com/user-attachments/assets/7137197f-b7c0-4416-b527-ce9050ddd242" />
+
